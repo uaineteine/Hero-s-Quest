@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Character">
+    <Position X="3.5" Y="6.75" Width="2" />
+    <Members>
+      <Method Name="~Character" Hidden="true" />
+      <Method Name="Character" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="Character::Stats" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Character.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAQAAAAAAAAAAAAAAAAAOAA=</HashCode>
+      <FileName>Character.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player">
+    <Position X="8.75" Y="2.75" Width="2" />
+    <Members>
+      <Method Name="~Player" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAABAABBgABAAEABEAAACQAAAdA=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monster">
+    <Position X="0.5" Y="0.75" Width="2" />
+    <Members>
+      <Method Name="~Monster" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACCAAAABAAABAAAAAAgAgAAAAAAA=</HashCode>
+      <FileName>Monster.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Item">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <Members>
+      <Method Name="~Item" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>BQAAAACAACAgAAAAAAAAABAEAAAAAAAQAQAAAAAAAAA=</HashCode>
+      <FileName>Item.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
